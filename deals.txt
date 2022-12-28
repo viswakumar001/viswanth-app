@@ -1,5 +1,5 @@
-deal
-deal#-2
-deal#-3
+deal=1
+deal=2
+dea=-3
 deal-4
 
